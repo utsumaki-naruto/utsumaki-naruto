@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**utsumaki-naruto/utsumaki-naruto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am graduated in MBA. 
+I actually interested in Math and all of the sciences. 
+I personally think the combination of all subjects in science could create a new vision to read the space and understand the principle. 
+I understant things very fast.
+Learning machine learning right now, hope one day could understand the point deeply inside.
 
-Here are some ideas to get you started:
+### Life Interests
+Playing basketball, batminton and bowling ball.
+Stock Market.
+Human.
+Psychology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
